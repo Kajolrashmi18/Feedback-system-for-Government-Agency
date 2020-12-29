@@ -50,9 +50,9 @@ NOTE:
    (means no password!)
 
 ## How to Run
-Step 1 : Run Xampp Application and Start the Apache and Mysql Server./
+Step 1 : Run Xampp Application and Start the Apache and Mysql Server.\
 Step 2: Start your browser and type http://127.0.0.1 or http://localhost in the location bar. You should see our pre-made
-start page with certain examples and test screens./
+start page with certain examples and test screens.\
 
 Step 3: PHP (with mod_php, as *.php), Perl by default with *.cgi, SSI with *.shtml are all located in => C:\xampp\htdocs\.
 Examples:
