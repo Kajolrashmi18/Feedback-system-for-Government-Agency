@@ -60,15 +60,23 @@ Examples:
 
 ## User Interface / output
   * Home Page
+  
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/1.png)
  ****
-  * 
+  * About Us Page
+  
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/2.png) 
  ****
+  * News Page
+  
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/3.png) 
  ****
+  * Login Page
+  
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/4.png)
  ****
+  * Admin Page
+  
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/5.png)
 
 ## References
