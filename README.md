@@ -24,7 +24,7 @@ most vital asset in current world,which is prerequisite to the way we function a
 
 Step 1:Download the .exe file given in the downloads.\
 step 2:Run the file\
-step 3:Install the application.\
+step 3:Install the application.
 
 * Install Xampp Server
 
@@ -53,7 +53,6 @@ NOTE:
 Step 1 : Run Xampp Application and Start the Apache and Mysql Server.\
 Step 2: Start your browser and type http://127.0.0.1 or http://localhost in the location bar. You should see our pre-made
 start page with certain examples and test screens.\
-
 Step 3: PHP (with mod_php, as *.php), Perl by default with *.cgi, SSI with *.shtml are all located in => C:\xampp\htdocs\.
 Examples:
 - C:\xampp\htdocs\test.php => http://localhost/test.php
