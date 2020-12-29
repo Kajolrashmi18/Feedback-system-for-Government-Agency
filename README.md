@@ -16,7 +16,7 @@ most vital asset in current world,which is prerequisite to the way we function a
 
 ## Downloads
 
-* [XAMPP Version 7.2.34](https://www.apachefriends.org/xampp-files/7.2.34/xampp-windows-x64-7.2.34-0-VC15-installer.exe)\
+* [XAMPP Version 7.2.34](https://www.apachefriends.org/xampp-files/7.2.34/xampp-windows-x64-7.2.34-0-VC15-installer.exe)
 * [Sublime (Text editor)](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe)
 
 ## INSTALLATION:
