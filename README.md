@@ -59,9 +59,10 @@ Examples:
 - C:\xampp\htdocs\myhome\test.php => http://localhost/myhome/test.php
 
 ## User Interface / output
-
+  * Home Page
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/1.png)
  ****
+  * 
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/2.png) 
  ****
  ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/3.png) 
