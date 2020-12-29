@@ -54,11 +54,15 @@ Examples:
 
 ## User Interface / output
 
- ![](screenshot/1.png) 
- ![](screenshot/2.png) 
- ![](screenshot/3.png) 
- ![](screenshot/4.png) 
- ![](screenshot/5.png)
+ ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/1.png)
+ ****
+ ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/2.png) 
+ ****
+ ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/3.png) 
+ ****
+ ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/4.png)
+ ****
+ ![](https://github.com/Kajolrashmi18/Feedback-system-for-Government-Agency/blob/main/screenshots/5.png)
 
 ## References
 
