@@ -1,7 +1,6 @@
 # Feedback System for Government Agency
-
-Government and governance are both in collaboration for the governed. Government
-can be referred to as the tool for this objective,and governance can be defined as the outcome as experienced by those on the receiving end. Governance in the citizen 
+***
+We have created Feedback System for Government Agencies so that the citizens will have a easier and quicker way to find solutions regarding the operations of Particular Government Agency. Government can be referred to as the tool for this objective,and governance can be defined as the outcome as experienced by those on the receiving end. Governance in the citizen 
 framework is closely allied to government and democracy,but has a different empha-
 -sis . These three concepts can be considered as different views or political entities.
 While government can be referred to as the 'institutional view',Democracy as the
@@ -85,7 +84,7 @@ Examples:
 Links
 w3School           :    https://www.w3schools.com/
 W3layouts          :    http://w3layouts.com/
-Youtube videos     :    https://www.youtube.com/
+Youtube videos     :    https://www.youtube.com/watch?v=cGh_zvESdxA
 ```
 
 Thank you....
