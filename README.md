@@ -20,6 +20,13 @@ most vital asset in current world,which is prerequisite to the way we function a
 [Sublime (Text editor)](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe)
 
 ## INSTALLATION:
+* Install Sublime Text Editor
+
+Step 1:Download the .exe file given in the downloads.\
+step 2:Run the file\
+step 3:Install the application.\
+
+* Install Xampp Server
 
 [NOTE: Unpack the package to your USB stick or a partition of your choice.
 There it must be on the highest level like E:\ or W:\. It will 
@@ -43,11 +50,11 @@ NOTE:
    (means no password!)
 
 ## How to Run
-
-Step 1: Start your browser and type http://127.0.0.1 or http://localhost in the location bar. You should see our pre-made
+Step 1 : Run Xampp Application and Start the Apache and Mysql Server.
+Step 2: Start your browser and type http://127.0.0.1 or http://localhost in the location bar. You should see our pre-made
 start page with certain examples and test screens.
 
-Step 2: PHP (with mod_php, as *.php), Perl by default with *.cgi, SSI with *.shtml are all located in => C:\xampp\htdocs\.
+Step 3: PHP (with mod_php, as *.php), Perl by default with *.cgi, SSI with *.shtml are all located in => C:\xampp\htdocs\.
 Examples:
 - C:\xampp\htdocs\test.php => http://localhost/test.php
 - C:\xampp\htdocs\myhome\test.php => http://localhost/myhome/test.php
