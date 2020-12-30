@@ -84,6 +84,6 @@ W3layouts          :    http://w3layouts.com/
 Youtube videos     :    https://www.youtube.com/watch?v=cGh_zvESdxA
 ```
 
-Thank you....
+Thank you...
 
 
